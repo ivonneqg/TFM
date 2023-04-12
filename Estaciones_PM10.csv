@@ -1,24 +1,24 @@
-STA_SERIALCODE¥STA_STATIONNAME¥COORDENADAS¥MON_NUMERICFORMAT¥MON_SOURCE1¥STA_LOCATION¥STA_NOTES
-1¥Usaquen¥{"type":"Point","coordinates":[4.71035,-74.03041666666667]}¥5.1¥1¥TV-9 No 133-95¥La estación se encuentra en la azotea del edificio de la Universidad El Bosque, a una altura de 10 m.
-3¥Carvajal - Sevillana¥{"type":"Point","coordinates":[4.5958333,-74.14850000000001]}¥5.1¥32¥Auto Sur No 61-40¥La estacion esta ubicada en una zona industrial en un entorno de fuentes puntuales de contaminantes primarios y se encuentra en la periferia de la Autopista Sur.  Se encuentra a 4 m del suelo.  Registra el sector sur,  su escala de medicion es vecindario.
-9¥Kennedy¥{"type":"Point","coordinates":[4.62505,-74.16133333333335]}¥5.1¥1¥Cr 86 No 40-55 Sur¥La estación se encuentra ubicada dentro de las instalaciones del Parque Cayetano Cañizares
-4¥Tunal¥{"type":"Point","coordinates":[4.57619,-74.13093]}¥5.1¥1¥Carrera 24 N° 49-86 sur¥La estacion esta ubicada dentro de las instalaciones Inem Santiago Perez, se encuentra a nivel del suelo, presenta vegetacion arborea que no afecta su registro.  Registra el sector suroriente.
-5¥Centro de Alto Rendimiento¥{"type":"Point","coordinates":[4.6583333,-74.08388888888888]}¥5.1¥24¥Cl 63 No 47-06¥La estación se encuentra ubicada dentro de las instalaciones del Centro de Alto Rendimiento COLDEPORTES.
-7¥Cazuca¥{"type":"Point","coordinates":[4.59480,-74.18482]}¥5¥NotReq¥CL 14 No 6-54 Entrada Cazuca¥Estacion trasladada.  Fue enviada a San Cristobal. Registraba el sector sur, su escala de medicion es micro
-8¥Guaymaral¥{"type":"Point","coordinates":[4.78375,-74.04413888888888]}¥5.1¥1¥Auto Norte KM 13¥La estacion esta a nivel del suelo, dentro de las enstalaciones de la Escuela de ingeniería Julio Garavito.
-17¥MinAmbiente¥{"type":"Point","coordinates":[4.6254861,-74.06698055555555]}¥5.1¥23¥CL 37 No. 8 - 40¥Se encuentra ubicada en la azotea del Ministerio de Ambiente a una altura de 15 m sobre el nivel del suelo.
-6¥Las Ferias¥{"type":"Point","coordinates":[4.6907,-74.08248333333333]}¥5.1¥36¥AV Calle 80 N° 69Q - 50¥Esta a nivel del suelo, cercana a  una via principal (Calle 80), presenta vegetacion arborea a su alrededor.  Registra el sector noroccidente y centro,  su escala de medicion es vecindario. Estacion ambiental frente a estacion de servicio
-13¥Puente Aranda¥{"type":"Point","coordinates":[4.6317667,-74.11748333333333]}¥5.1¥33¥Cr 65 No 10-95¥La estacion esta a 15 m del suelo,  ubicada en una zona industrial, cercana a una via principal (Avenidas de Las Americas).  Registra el sector centroccidente y sur,  su escala de medicion es vecindario
-24¥San Cristobal¥{"type":"Point","coordinates":[4.5725528,-74.08381388888888]}¥5.1¥1¥Carrera 2 Este No. 12-78 Sur¥N/A
-10¥Chico lago (Sto Tomas)¥{"type":"Point","coordinates":[4.65654,-74.05640]}¥5¥NotReq¥Carrera 9 No. 72 - 90¥La estacion esta a nivel del suelo, aledana a una via principal (Agoberto Medina), posee vegetacion arborea que no afecta su registro.	Registra el sector sur,  su escala de medicion es vecindario.
-11¥Suba¥{"type":"Point","coordinates":[4.7612472,-74.09346111111111]}¥5.1¥22¥Ave Corpas Km 13 / KR 111 157-45¥La estación se encuentra ubicada en la Carrera 111 # 159 A-61. Registra el sector noroccidental su escala de medicion es vecindario. Franqueada por el Cerro de la Conejera
-27¥Bolivia¥{"type":"Point","coordinates":[4.7358056,-74.12588888888888]}¥5.1¥1¥Avenida Calle 80  # 121-98¥
-28¥Plantilla canales¥{"type":"Point","coordinates":[4.70939,-74.03199]}¥5.0¥1¥TV-9 No 133-95¥N/A
-30¥Fontibon¥{"type":"Point","coordinates":[4.6782417,-74.14381944444445]}¥5.1¥1¥KR 96G 17B 49¥N/A
-26¥Movil 7ma¥{"type":"Point","coordinates":[4.645,-74.06155555555556]}¥5.1¥37¥AV boyaca calle 63¥estacion destinada a la ejecucion del convenio 176 con el IDEAM y Trasmilenio para la medicion de parametros en via
-34¥Jazmin¥{"type":"Point","coordinates":[4.6085,-74.11494444444443]}¥5.1¥1¥Calle 1 G # 41 A 39¥N/A
-32¥Usme¥{"type":"Point","coordinates":[4.53120556,-74.111713888888889]}¥5.1¥1¥Carrera 11 # 65 D 50 Sur¥N/A
-31¥Bosa¥{"type":"Point","coordinates":[4.6056111,-74.20405555555556]}¥5.1¥1¥Diagonal 73 F Sur # 78 - 44¥N/A
-37¥Ciudad Bolivar¥{"type":"Point","coordinates":[4.5778056,-74.16627777777778]}¥5.1¥1¥Calle 70 Sur # 56 - 11¥N/A
-39¥Movil Fontibon¥{"type":"Point","coordinates":[4.668,-74.14850000000001]}¥5.1¥9¥Cra. 98 #16 B 50¥N/A
-38¥Colina¥{"type":"Point","coordinates":[4.7371944,-74.06947222222222]}¥5.1¥2¥Avenida Boyacá No 142ª-55¥N/A
+STA_SERIALCODEÂ¥STA_STATIONNAMEÂ¥COORDENADASÂ¥MON_NUMERICFORMATÂ¥MON_SOURCE1Â¥STA_LOCATIONÂ¥STA_NOTES
+1Â¥UsaquenÂ¥{"type":"Point","coordinates":[4.71035,-74.03041666666667]}Â¥2.3Â¥1Â¥TV-9 No 133-95Â¥La estaciÃ³n se encuentra en la azotea del edificio de la Universidad El Bosque, a una altura de 10 m.
+3Â¥Carvajal - SevillanaÂ¥{"type":"Point","coordinates":[4.5958333,-74.14850000000001]}Â¥1.5Â¥32Â¥Auto Sur No 61-40Â¥La estacion esta ubicada en una zona industrial en un entorno de fuentes puntuales de contaminantes primarios y se encuentra en la periferia de la Autopista Sur.  Se encuentra a 4 m del suelo.  Registra el sector sur,  su escala de medicion es vecindario.
+9Â¥KennedyÂ¥{"type":"Point","coordinates":[4.62505,-74.16133333333335]}Â¥0.3Â¥1Â¥Cr 86 No 40-55 SurÂ¥La estaciÃ³n se encuentra ubicada dentro de las instalaciones del Parque Cayetano CaÃ±izares
+4Â¥TunalÂ¥{"type":"Point","coordinates":[4.57619,-74.13093]}Â¥9.5Â¥1Â¥Carrera 24 NÂ° 49-86 surÂ¥La estacion esta ubicada dentro de las instalaciones Inem Santiago Perez, se encuentra a nivel del suelo, presenta vegetacion arborea que no afecta su registro.  Registra el sector suroriente.
+5Â¥Centro de Alto RendimientoÂ¥{"type":"Point","coordinates":[4.6583333,-74.08388888888888]}Â¥11.67Â¥24Â¥Cl 63 No 47-06Â¥La estaciÃ³n se encuentra ubicada dentro de las instalaciones del Centro de Alto Rendimiento COLDEPORTES.
+7Â¥CazucaÂ¥{"type":"Point","coordinates":[4.59480,-74.18482]}Â¥87.54Â¥NotReqÂ¥CL 14 No 6-54 Entrada CazucaÂ¥Estacion trasladada.  Fue enviada a San Cristobal. Registraba el sector sur, su escala de medicion es micro
+8Â¥GuaymaralÂ¥{"type":"Point","coordinates":[4.78375,-74.04413888888888]}Â¥76.43Â¥1Â¥Auto Norte KM 13Â¥La estacion esta a nivel del suelo, dentro de las enstalaciones de la Escuela de ingenierÃ­a Julio Garavito.
+17Â¥MinAmbienteÂ¥{"type":"Point","coordinates":[4.6254861,-74.06698055555555]}Â¥23.5Â¥23Â¥CL 37 No. 8 - 40Â¥Se encuentra ubicada en la azotea del Ministerio de Ambiente a una altura de 15 m sobre el nivel del suelo.
+6Â¥Las FeriasÂ¥{"type":"Point","coordinates":[4.6907,-74.08248333333333]}Â¥62.5Â¥36Â¥AV Calle 80 NÂ° 69Q - 50Â¥Esta a nivel del suelo, cercana a  una via principal (Calle 80), presenta vegetacion arborea a su alrededor.  Registra el sector noroccidente y centro,  su escala de medicion es vecindario. Estacion ambiental frente a estacion de servicio
+13Â¥Puente ArandaÂ¥{"type":"Point","coordinates":[4.6317667,-74.11748333333333]}Â¥77.3Â¥33Â¥Cr 65 No 10-95Â¥La estacion esta a 15 m del suelo,  ubicada en una zona industrial, cercana a una via principal (Avenidas de Las Americas).  Registra el sector centroccidente y sur,  su escala de medicion es vecindario
+24Â¥San CristobalÂ¥{"type":"Point","coordinates":[4.5725528,-74.08381388888888]}Â¥63.2Â¥1Â¥Carrera 2 Este No. 12-78 SurÂ¥N/A
+10Â¥Chico lago (Sto Tomas)Â¥{"type":"Point","coordinates":[4.65654,-74.05640]}Â¥2.3Â¥NotReqÂ¥Carrera 9 No. 72 - 90Â¥La estacion esta a nivel del suelo, aledana a una via principal (Agoberto Medina), posee vegetacion arborea que no afecta su registro.	Registra el sector sur,  su escala de medicion es vecindario.
+11Â¥SubaÂ¥{"type":"Point","coordinates":[4.7612472,-74.09346111111111]}Â¥62.4Â¥22Â¥Ave Corpas Km 13 / KR 111 157-45Â¥La estaciÃ³n se encuentra ubicada en la Carrera 111 # 159 A-61. Registra el sector noroccidental su escala de medicion es vecindario. Franqueada por el Cerro de la Conejera
+27Â¥BoliviaÂ¥{"type":"Point","coordinates":[4.7358056,-74.12588888888888]}Â¥88.4Â¥1Â¥Avenida Calle 80  # 121-98Â¥
+28Â¥Plantilla canalesÂ¥{"type":"Point","coordinates":[4.70939,-74.03199]}Â¥42.5Â¥1Â¥TV-9 No 133-95Â¥N/A
+30Â¥FontibonÂ¥{"type":"Point","coordinates":[4.6782417,-74.14381944444445]}Â¥26.8Â¥1Â¥KR 96G 17B 49Â¥N/A
+26Â¥Movil 7maÂ¥{"type":"Point","coordinates":[4.645,-74.06155555555556]}Â¥46.7Â¥37Â¥AV boyaca calle 63Â¥estacion destinada a la ejecucion del convenio 176 con el IDEAM y Trasmilenio para la medicion de parametros en via
+34Â¥JazminÂ¥{"type":"Point","coordinates":[4.6085,-74.11494444444443]}Â¥17.3Â¥1Â¥Calle 1 G # 41 A 39Â¥N/A
+32Â¥UsmeÂ¥{"type":"Point","coordinates":[4.53120556,-74.111713888888889]}Â¥48.6Â¥1Â¥Carrera 11 # 65 D 50 SurÂ¥N/A
+31Â¥BosaÂ¥{"type":"Point","coordinates":[4.6056111,-74.20405555555556]}Â¥39.7Â¥1Â¥Diagonal 73 F Sur # 78 - 44Â¥N/A
+37Â¥Ciudad BolivarÂ¥{"type":"Point","coordinates":[4.5778056,-74.16627777777778]}Â¥41.4Â¥1Â¥Calle 70 Sur # 56 - 11Â¥N/A
+39Â¥Movil FontibonÂ¥{"type":"Point","coordinates":[4.668,-74.14850000000001]}Â¥62.5Â¥9Â¥Cra. 98 #16 B 50Â¥N/A
+38Â¥ColinaÂ¥{"type":"Point","coordinates":[4.7371944,-74.06947222222222]}Â¥70.4Â¥2Â¥Avenida BoyacÃ¡ No 142Âª-55Â¥N/A
